@@ -5,8 +5,8 @@ gross value as input. The taxation rules in the country of Imaginaria as of date
 3.)	Social contributions of 15% are expected to be made as well. As for the previous case, 
 the taxable income is whatever is above 1000 IDR but social contributions never apply to 
 amounts higher than 3000. */
-
-using System;
+//To add More taxes to employee we will need to create more methods with the proper conditions 
+//to calculate the new taxes.using System;
 
 namespace SalaryApp{
    public class Salary{
